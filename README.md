@@ -1,23 +1,10 @@
 # 👋 Hi, I'm Sebastian Arteaga
 
-I'm a computer science and math student at Northeastern University passionate about building intelligent, data-driven systems. I enjoy working on backend-heavy, performance-optimized applications and love designing modular systems that are easy to test, extend, and deploy.
+I'm a computer science and math student at Northeastern University passionate about building intelligent & data-driven systems, and exploring the applications of machine learning & quantitative techniques in finance. My experience lies at the intersection of engineering and research. I’m curious about markets, excited by complex problems, and always looking to expand my technical and analytical toolkit.
 
 ---
 
 ## 💻 I'm Currently Working On
-
-- **Three Trios** – Java-based strategy card game  
-  → Configurable rulesets, GUI, and AI strategies  
-  → Built from scratch with MVC and design patterns (Factory, Builder, Adapter, etc.)
-
-- **MBTA Transit Analysis** – Boston public transit project  
-  → Used K-means clustering, regression, and geospatial data to highlight underserved areas  
-  → Developed robust data pipelines and predictive models for urban planning insights
-
-- **Fynn** – Recently developed an AI-powered financial advisor chatbot  
-  → Combines GPT-4 with real-time financial, housing, and banking APIs  
-  → Built a secure backend using Flask, Firestore, and Google Cloud  
-  *(Currently polishing the project before publishing it)*
 
 - **Equity Pairs Trading Research & Backtesting System** – Quantitative finance research project  
   → Built a **portfolio-level, vectorized backtesting engine** in Python to simulate mean-reversion statistical arbitrage strategies  
@@ -28,7 +15,7 @@ I'm a computer science and math student at Northeastern University passionate ab
     - *Model 1*: Static Ornstein-Uhlenbeck (OU) with Monte Carlo–optimized thresholds  
     - *Model 2*: Dynamic OU estimation with stochastic volatility and thresholds from stopping theory  
     - *Model 3*: Dynamic OU augmented with ML-based volatility-regime classification for adaptive thresholding  
-  *(Core system completed; currently working on devloping the signal generation models)*
+  *(Core system & pair research completed; currently working on devloping the signal generation models)*
 
 ---
 
@@ -43,6 +30,7 @@ I'm a computer science and math student at Northeastern University passionate ab
 
 - 🃏 `ThreeTrios` – Java strategy game with modular AI opponent and multi-window GUI
 - 🚉 `boston-mbta-analysis` – Urban data science project with clustering & regression used to make insights
+- 📈 `equity-pairs-trading` – Quant finance backtesting system & equities pair trading research, with rigorous pair selection and modular OU/ML signal models
 
 ---
 

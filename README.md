@@ -23,7 +23,8 @@ I'm a computer science and math student at Northeastern University passionate ab
 
 **Languages:** Java, Python, R, SQL, C, Kotlin, JavaScript, HTML/CSS  
 **Libraries/Tools:** Git, Jupyter Notebook, Scikit-learn, statsmodels, Matplotlib, NumPy, Pandas, Flask  
-**Concepts:** Object-Oriented Design, Functional Programming, Asynchronous Programming, Data Pipelines, REST APIs, MVC, Cryptography
+**Concepts:** Object-Oriented Design, Functional Programming, Asynchronous Programming, Data Pipelines, REST APIs, MVC, Cryptography  
+
 ---
 
 ## 📌 Featured Repositories

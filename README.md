@@ -19,11 +19,11 @@ I'm a computer science and math student at Northeastern University passionate ab
   → Built a secure backend using Flask, Firestore, and Google Cloud  
   *(Currently polishing the project before publishing it)*
 
-- **Equity Pairs Trading Research & Backtesting System** – Quantitative finance research project
-  → Built a **portfolio-level, vectorized backtesting engine** in Python to simulate mean-reversion statistical arbitrage strategies
-  → Engineered **realistic execution modeling** on leg prices with dollar-neutral hedging, capital constraints, and configurable commission/slippage assumptions
-  → Designed a **statistically rigorous pair-selection pipeline**: correlation screening, Engle-Granger cointegration, ADF, Hurst, and half-life analyses, plus rolling beta-stability filtering
-  → Integrated **confidence- and volatility-based position sizing** with safeguards, portfolio-wide PnL tracking, and advanced performance metrics (Sharpe, Sortino, drawdowns, win rate, equity curves)
+- **Equity Pairs Trading Research & Backtesting System** – Quantitative finance research project  
+  → Built a **portfolio-level, vectorized backtesting engine** in Python to simulate mean-reversion statistical arbitrage strategies  
+  → Engineered **realistic execution modeling** on leg prices with dollar-neutral hedging, capital constraints, and configurable commission/slippage assumptions  
+  → Designed a **statistically rigorous pair-selection pipeline**: correlation screening, Engle-Granger cointegration, ADF, Hurst, and half-life analyses, plus rolling beta-stability filtering  
+  → Integrated **confidence- and volatility-based position sizing** with safeguards, portfolio-wide PnL tracking, and advanced performance metrics (Sharpe, Sortino, drawdowns, win rate, equity curves)  
   → Developed a **modular signal-model architecture** supporting interchangeable models, derived from research:  
     - *Model 1*: Static Ornstein-Uhlenbeck (OU) with Monte Carlo–optimized thresholds  
     - *Model 2*: Dynamic OU estimation with stochastic volatility and thresholds from stopping theory  
